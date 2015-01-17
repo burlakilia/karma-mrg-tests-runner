@@ -1,6 +1,6 @@
 {
   "name": "karma-mrg-tests-runner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find all tests file in your project and generate correct url for using in karma",
   "main": "index.js",
   "scripts": {
